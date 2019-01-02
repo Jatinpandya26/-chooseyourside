@@ -11,7 +11,7 @@ if (j%3==0):
 elif(j%5==0):
   print("you are a person of your word")
 else:
-  print("youo are a ambitious soul")
+  print("you are a ambitious soul")
   
 
   
